@@ -1,3 +1,3 @@
 # COSC 3360
 ## Operating Systems @ University of Houston
-Homework I did in COSC 3360: Operating Systems (Spring 2023)
+Repo that contains the programming assignments that I did in OS
