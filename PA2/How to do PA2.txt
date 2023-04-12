@@ -1,3 +1,0 @@
-1. First change the comparison function and put main.cpp code from PA1 into server.cpp. Get rid of POSIX threads and make sure you decode the string without them. You should get correct output (binary codes are correct). Make sure you have OOP solution and get rid of ifstream objects.
-
-2. Move compressed file operations and POSIX threads to client.
